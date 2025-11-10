@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karinatopman.com/sitemap.xml
+
+

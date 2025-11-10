@@ -1,0 +1,18 @@
+{
+  "name": "Karina Topman — Virtual Assistant",
+  "short_name": "Karina VA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#0066CC",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
+
